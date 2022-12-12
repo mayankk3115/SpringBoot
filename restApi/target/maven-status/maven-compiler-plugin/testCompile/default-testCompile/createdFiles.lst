@@ -1,0 +1,3 @@
+com\myRestApi\restApi\jsonAssert\JsonAssertTest.class
+com\myRestApi\restApi\RestApiApplicationTests.class
+com\myRestApi\restApi\repository\SurveyControllerIT.class

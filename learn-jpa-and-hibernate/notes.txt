@@ -1,0 +1,5 @@
+insert into course values(1, 'AWS', 'Mayank');
+
+select * from course;
+
+delete from course where id=1;
